@@ -1,4 +1,8 @@
+Most files work in program-o too, some will need minor fixes for a pass with the XML validator
 
+Remember to find the the file with the bot personality AIML script and edit it out unless you want your program-o overwritten.
+
+have fun!!
 
 ABOUT THE PROFESSOR 2.0
 
